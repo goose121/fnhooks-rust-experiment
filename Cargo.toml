@@ -1,0 +1,6 @@
+[package]
+name = "fnhooks"
+version = "0.1.0"
+authors = ["goose121 <goose121@users.noreply.github.com>"]
+
+[dependencies]
